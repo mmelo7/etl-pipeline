@@ -17,7 +17,3 @@ This project implements an **ETL (Extract, Transform, Load) pipeline** using **A
 - **PostgreSQL** 🛢️ - Stores structured and transformed data.
 - **Python** 🐍 - Handles API requests, data processing, and database interactions.
 - **Docker & Docker Compose** 🐳 - Manages service dependencies.
-
----
-
-## 📂 **Project Structure**
